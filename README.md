@@ -1,5 +1,4 @@
-<!-- Banner personalizado -->
-<img src="https://i.imgur.com/ZFJr4lz.gif" width="100%" alt="banner">
+
 
 <h1 align="center">👋 Olá, eu sou o Lucas!</h1>
 
