@@ -65,13 +65,13 @@ Interface amigável e design responsivo, com foco na conexão entre humanos e an
 ### 🌐 Conecte-se comigo
 
 <p align="center">
-  <a href="https://linkedin.com/in/seu-link-aqui">
+  <a href="www.linkedin.com/in/devlucaslopesf">
     <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Lopes-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://instagram.com/seuuser">
+  <a href="https://instagram.com/lucaslopesf_">
     <img src="https://img.shields.io/badge/Instagram-@seuuser-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="mailto:LucasLopes@gmail.com">
+  <a href="mailto:lucaslopesf_@outlook.com">
     <img src="https://img.shields.io/badge/Gmail-LucasLopes@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
